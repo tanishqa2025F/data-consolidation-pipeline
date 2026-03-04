@@ -23,7 +23,7 @@ clean, validated dataset automatically.
 
 ## Quick Start
 ```bash
-git clone https://github.com/YOUR_USERNAME/data-consolidation-pipeline.git
+git clone https://github.com/tanishqa2025F/data-consolidation-pipeline.git
 cd data-consolidation-pipeline
 pip install -r requirements.txt
 python src/pipeline.py --generate-data
